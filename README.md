@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soraka84
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on facebook
+- 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me whatsapp:01016696912
 
 <!---
